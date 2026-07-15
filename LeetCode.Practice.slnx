@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="FindTheIndexOfTheFirstOccurrenceInAString/FindTheIndexOfTheFirstOccurrenceInAString.csproj" />
+  <Project Path="LongestCommonPrefix/LongestCommonPrefix.csproj" />
+  <Project Path="MergeTwoSortedLists/MergeTwoSortedLists.csproj" />
+  <Project Path="PalindromeNumber/PalindromeNumber.csproj" />
+  <Project Path="RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.csproj" />
+  <Project Path="RemoveElement/RemoveElement.csproj" />
+  <Project Path="RomanToInteger/RomanToInteger.csproj" />
+  <Project Path="SearchInsertPosition/SearchInsertPosition.csproj" />
+  <Project Path="TwoSum/TwoSum.csproj" />
+  <Project Path="ValidParentheses/ValidParentheses.csproj" />
+</Solution>
