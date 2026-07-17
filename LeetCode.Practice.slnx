@@ -1,11 +1,19 @@
 <Solution>
+  <Project Path="AssignCookies/AssignCookies.csproj" Id="d3e8bf60-c803-4d72-91fd-7bfa5afc0ad3" />
   <Project Path="BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.csproj" Id="4d829725-ab2a-4a83-89a3-9a5bc2690c52" />
+  <Project Path="BinarySearch/BinarySearch.csproj" Id="b4a29026-1ee8-4502-9db3-35fd5bc9b620" />
+  <Project Path="ContainsDuplicate/ContainsDuplicate.csproj" Id="03a9967f-29ce-4f55-a92c-f5f45576275c" />
   <Project Path="FindTheIndexOfTheFirstOccurrenceInAString/FindTheIndexOfTheFirstOccurrenceInAString.csproj" />
   <Project Path="LengthOfLastWord/LengthOfLastWord.csproj" Id="ac1101eb-9a40-4b0e-b97e-ee33b1373a40" />
+  <Project Path="LinkedListCycle/LinkedListCycle.csproj" Id="a8d5ecb7-17cc-4b76-b08e-70657d143210" />
   <Project Path="LongestCommonPrefix/LongestCommonPrefix.csproj" />
+  <Project Path="MaximumAverageSubarray/MaximumAverageSubarray.csproj" Id="d8d3a7d0-7fff-431e-903e-31c9b476cff3" />
+  <Project Path="MaximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.csproj" Id="2d26ce8c-25d0-420c-875f-8e724235eb4c" />
+  <Project Path="MergeSortedArray/MergeSortedArray.csproj" Id="05f62162-8c08-4125-9901-17acee9f6f16" />
   <Project Path="MergeTwoSortedLists/MergeTwoSortedLists.csproj" />
   <Project Path="PalindromeNumber/PalindromeNumber.csproj" />
   <Project Path="PlusOne/PlusOne.csproj" Id="3f388d2f-9e11-4a0b-8e3b-282814427d03" />
+  <Project Path="RangeSumQueryImmutable/RangeSumQueryImmutable.csproj" Id="85c33f16-0b35-42b4-8a4f-17d9a197e580" />
   <Project Path="RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.csproj" />
   <Project Path="RemoveDuplicatesFromSortedList/RemoveDuplicatesFromSortedList.csproj" Id="0322ad47-23b1-4b67-a462-eb4816d9bb3c" />
   <Project Path="RemoveElement/RemoveElement.csproj" />
